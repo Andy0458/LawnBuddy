@@ -1,0 +1,5 @@
+smbus
+smbus2
+VL53L1X
+FaBo9Axis_MPU9250
+pybluez
